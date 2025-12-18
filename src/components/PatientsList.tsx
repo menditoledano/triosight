@@ -8,7 +8,7 @@ export default function PatientsList() {
     { name: 'John Doe', email: 'john.doe@gmail.com', age: 31, gender: 'Male', date: '14/06/21' },
     { name: 'Freduardo Hill', email: 'freduardo@gmail.com', age: 42, gender: 'Male', date: '14/06/21' },
     { name: 'Daniel Thomas', email: 'daniel@dimmple.com', age: 24, gender: 'Male', date: '14/06/21' },
-    { name: 'Mark Wilson', email: 'mark@email.com', age: 46, gender: 'Male', date: '14/06/21' },
+    { name: 'Mendi Wilson', email: 'mark@email.com', age: 46, gender: 'Male', date: '14/06/21' },
   ];
 
   return (
